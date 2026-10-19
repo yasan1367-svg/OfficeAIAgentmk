@@ -1,0 +1,6 @@
+{
+  "name": "Office AI Agent",
+  "description": "دستیار هوشمند و عامل خودکار اجرای فرامین در Microsoft Excel و Microsoft Word با معماری چندمدله و امن",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
